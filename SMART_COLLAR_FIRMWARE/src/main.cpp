@@ -43,8 +43,24 @@ void setup() {
 }
 
 void loop() {
-  lcd.drawBitmap(0, 0, epd_bitmap_CatHappy1, 320, 240, ILI9341_GREENYELLOW, ILI9341_BLACK);
-  delay(500);
-  lcd.drawBitmap(0, 0, epd_bitmap_CatHappy2, 320, 240, ILI9341_GREENYELLOW, ILI9341_BLACK);
-  delay(500);
+  for (int i = 0; i < 10; i++) {
+    lcd.drawBitmap(0, 0, epd_bitmap_CatHappy1, 320, 240, ILI9341_GREENYELLOW, ILI9341_BLACK);
+    delay(500);
+    lcd.drawBitmap(0, 0, epd_bitmap_CatHappy2, 320, 240, ILI9341_GREENYELLOW, ILI9341_BLACK);
+    delay(500);
+  }
+
+  for (int i = 0; i < 10; i++) {
+    lcd.drawBitmap(0, 0, epd_bitmap_CatContent1, 320, 240, ILI9341_YELLOW, ILI9341_BLACK);
+    delay(500);
+    lcd.drawBitmap(0, 0, epd_bitmap_CatContent2, 320, 240, ILI9341_YELLOW, ILI9341_BLACK);
+    delay(500);
+  }
+
+  for (int i = 0; i < 10; i++) {
+    lcd.drawBitmap(0, 0, epd_bitmap_CatAgitated1, 320, 240, ILI9341_ORANGE, ILI9341_BLACK);
+    delay(500);
+    lcd.drawBitmap(0, 0, epd_bitmap_CatAgitated2, 320, 240, ILI9341_ORANGE, ILI9341_BLACK);
+    delay(500);
+  }
 }
