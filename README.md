@@ -15,5 +15,6 @@ After that, I had to figure out how to store images, after losing my sanity tryi
 ## Build
 ![alt text](./images/IMG_0006.jpg)
 Cool Video!
+[My video - Date.webm](https://github.com/user-attachments/assets/8224e2fc-8e21-40b7-af85-943a2465e463)
 
 Hehe silly kitty :3
