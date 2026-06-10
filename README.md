@@ -21,3 +21,13 @@ https://github.com/user-attachments/assets/fbcae221-1832-4e88-91b6-53feda09a32c
 
 
 Hehe silly kitty :3
+
+## BOM
+|Part          |Amount|Link                                                                                                         |Cost     |
+|--------------|------|-------------------------------------------------------------------------------------------------------------|---------|
+|ESP32         |1     |https://www.aliexpress.com/item/1005006825727330.html                                                        |$6.73    |
+|TFT Display   |1     |https://www.aliexpress.com/item/1005008042359126.html                                                        |$5.59    |
+|3DP Mount     |1     |N/A                                                                                                          |Negligble|
+|Strap         |1     |N/A                                                                                                          |N/A      |
+|C-C Cable     |1     |https://www.bestbuy.ca/en-ca/product/logiix-sync-charge-shortie-0-3m-1-ft-usb-c-to-usb-c-cable-white/19273876|$6.99    |
+|Mini Powerbank|1     |https://www.mophie.com/products/powerstation-mini-gen-1                                                      |$39.95   |
