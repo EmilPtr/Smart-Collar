@@ -12,6 +12,9 @@ After that, I had to figure out how to store images, after losing my sanity tryi
 ![alt text](./images/image.png)
 ![alt text](./images/image-1.png)
 
+## Wiring
+![alt text](./images/wiring.png)
+
 ## Build
 ![alt text](./images/IMG_0006.jpg)
 Cool Video!
